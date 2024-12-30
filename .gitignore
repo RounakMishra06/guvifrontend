@@ -1,0 +1,6 @@
+/venv
+/.env
+/test.ipynb
+notes.txt
+Procfile
+/vercel.json
